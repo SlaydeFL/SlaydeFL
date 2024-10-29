@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lucas (aka loli)
+# Hi 👋, I'm lucas 
 
 I’m passionate about automation, emerging tech, and AI 🤖. I work extensively with APIs to create efficient, automated solutions.
 
