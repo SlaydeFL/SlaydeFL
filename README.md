@@ -13,8 +13,6 @@ I’m passionate about automation, emerging tech, and AI 🤖. I work extensivel
   - ![APIs](https://img.shields.io/badge/-API%20Integration-000?style=for-the-badge&logo=postman)
   - ![Automation](https://img.shields.io/badge/-Automation-000?style=for-the-badge&logo=zapier)
   - ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=for-the-badge&logo=wireshark)
-  - ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?style=for-the-badge&logo=burp)
-  - ![OpenBullet](https://img.shields.io/badge/-OpenBullet-000?style=for-the-badge)
   - ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
   - ![VPS](https://img.shields.io/badge/-VPS%20Management-000?style=for-the-badge&logo=digitalocean)
 
