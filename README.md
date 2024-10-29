@@ -1,4 +1,4 @@
-# Hi 👋, I'm 0xLucas
+# Hi 👋, I'm lucas
 
 I love automation, new technologies, and AI 🤖
 
